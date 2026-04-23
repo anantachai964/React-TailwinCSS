@@ -24,7 +24,7 @@ function Clients() {
         <h2 className="text-[#4D4D4D] text-[25px] font-semibold">
           Our Clients
         </h2>
-        <p className="text-[11.14px] ">
+        <p className="text-[11.14px] text-[#717171]">
           We have been working with some Fortune 500+ clients
         </p>
       </div>
