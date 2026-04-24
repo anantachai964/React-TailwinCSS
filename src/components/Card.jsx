@@ -5,7 +5,7 @@ import icon3 from "../assets/img/icon-03.png";
 
 function Card() {
   return (
-    <div className="max-w-[1320px] mx-auto h-[400px] mt-[4rem]">
+    <div className="container max-w-[1320px] mx-auto h-[400px] mt-[27px]">
       <div className="flex flex-col justify-center items-center">
         <h2 className="text-[25px] font-semibold text-[#4D4D4D]">
           Manage your entire community <br />
@@ -32,7 +32,8 @@ function Card() {
         <div className="w-[240px] h-auto shadow-sm grid grid-cols-1 justify-items-center p-[1.5rem] gap-[0.5rem]">
           <img src={icon2} alt="" />
           <h2 className="text-center text-[#4D4D4D] text-[20px] font-bold">
-            National<br />
+            National
+            <br />
             Associations
           </h2>
           <p className="text-[#717171] text-[10px] text-center">
@@ -43,7 +44,8 @@ function Card() {
         <div className="w-[240px] h-auto shadow-sm grid grid-cols-1 justify-items-center p-[1.5rem] gap-[0.5rem]">
           <img src={icon3} alt="" />
           <h2 className="text-center text-[#4D4D4D] text-[20px] font-bold">
-            Clubs And<br />
+            Clubs And
+            <br />
             Groups
           </h2>
           <p className="text-[#717171] text-[10px] text-center">

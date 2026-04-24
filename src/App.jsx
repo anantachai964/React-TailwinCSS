@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Clients from "./components/Clients";
 import Card from "./components/Card";
+import How from "./components/How";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <Clients />
       <Card />
+      <How />
     </>
   );
 }

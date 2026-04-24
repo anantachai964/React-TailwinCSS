@@ -4,7 +4,7 @@ import logo from "../assets/img/logo-black.png";
 function Navbar() {
   return (
     <nav className="bg-[#F5F7FA]">
-      <div className="max-w-[1320px] mx-auto h-[80px] flex justify-between items-center p-8">
+      <div className="container max-w-[1320px] mx-auto h-[80px] flex justify-between items-center p-8">
         {/* LOGO */}
         <div>
           <a href="#">

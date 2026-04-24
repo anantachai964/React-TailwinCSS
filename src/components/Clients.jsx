@@ -19,7 +19,7 @@ const icons = [
 
 function Clients() {
   return (
-    <div className="max-w-[1320px] mx-auto h-[135px] mt-[1.5rem] ">
+    <div className="containermax-w-[1320px] mx-auto h-[135px] mt-[27px] ">
       <div className="flex flex-col items-center justify-center">
         <h2 className="text-[#4D4D4D] text-[25px] font-semibold">
           Our Clients
